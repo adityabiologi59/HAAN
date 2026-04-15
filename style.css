@@ -13,18 +13,9 @@ body{
    background:#417aa8;
     color:#fff;
 }
-.content{
-    width:90%;
-    margin:auto;
-    height:420px;
-    padding:0.1px;
-    background:#fff;
-    color:#333;
-}
-
 .jarak{
     padding:0 2pc;
-
+}
 .menu{
    background-color:#417aa8;
    height:50px;
@@ -51,7 +42,14 @@ menu ul i a:hover{
    background-color:#4b88bb;
    display:block;
 }
-
+.content{
+    width:90%;
+    margin:auto;
+    height:420px;
+    padding:0.1px;
+    background:#fff;
+    color:#333;
+}
 .border{
     border:2px solid #4887b9;
     margin-top:1pc;
